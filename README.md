@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_USERNAME&show_icons=true&theme=radical)
 
 <!--
 **whylineee/whylineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
