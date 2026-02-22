@@ -49,10 +49,12 @@ I focus on clean architecture, strong typing, performance optimization, and prod
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
----
+## My project:
+https://hire-now-web-app.vercel.app/
+https://a-iguide-web-app.vercel.app/login
+
+
 
 ## 🤝 Open to Collaboration
 
