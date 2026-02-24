@@ -53,8 +53,6 @@ I focus on clean architecture, strong typing, performance optimization, and prod
 ## My project:
 https://hire-now-web-app.vercel.app/
 
-https://a-iguide-web-app.vercel.app/login
-
 Lending dev-journal: https://lending-dev-journal.vercel.app/
 
 
