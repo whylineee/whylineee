@@ -73,6 +73,9 @@ https://hire-now-web-app.vercel.app/
 🔹 **Lending Dev Journal** – Modern fintech-focused web platform  
 https://lending-dev-journal.vercel.app/
 
+My projects:
+https://code-crafter-site.vercel.app/
+
 ---
 
 ## 🤝 Open to Collaboration
