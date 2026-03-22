@@ -65,6 +65,71 @@ I focus on clean architecture, strong typing, performance optimization, and prod
 
 ---
 
+## ⚡ Tech Stack (Visual)
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<br>Docker
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+<br>Figma
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<br>Git
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<br>Linux
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+<br>Next.js
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<br>Node.js
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<br>PostgreSQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<br>React
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<br>VS Code
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
+<br>macOS
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
 ## 🚀 Projects
 
 🔹 **HireNow** – AI-powered job platform  
@@ -73,7 +138,7 @@ https://hire-now-web-app.vercel.app/
 🔹 **Lending Dev Journal** – Modern fintech-focused web platform  
 https://lending-dev-journal.vercel.app/
 
-My projects:
+🔹 **Portfolio**  
 https://code-crafter-site.vercel.app/
 
 ---
@@ -96,3 +161,7 @@ https://code-crafter-site.vercel.app/
 ✔ Performance Optimization  
 ✔ Production-Ready Code  
 ✔ AI-Augmented Development  
+
+---
+
+⭐ *Building systems, not just apps.*
