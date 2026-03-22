@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marko Savyn
+# 👋 Hi, I'm Marko
 
 ## 🚀 Software Engineer | AI, Full-Stack & Mobile Developer 
 
