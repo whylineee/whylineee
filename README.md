@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mark
+# 👋 Hi, I'm Marko Savyn
 
-## 🚀 Software Engineer | AI, Full-Stack & Mobile Developer
+## 🚀 Software Engineer | AI, Full-Stack & Mobile Developer 
 
 I am a software engineer specializing in building scalable applications, intelligent systems, and modern mobile solutions.
 
